@@ -1,7 +1,6 @@
 catch
 finally
 fragment
-fragment
 grammar
 import
 lexer

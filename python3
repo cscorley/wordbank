@@ -1,6 +1,3 @@
-False
-None
-True
 and
 as
 assert
@@ -12,6 +9,7 @@ del
 elif
 else
 except
+False
 finally
 for
 from
@@ -21,12 +19,14 @@ import
 in
 is
 lambda
+None
 nonlocal
 not
 or
 pass
 raise
 return
+True
 try
 while
 with
