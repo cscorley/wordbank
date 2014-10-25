@@ -1,16 +1,20 @@
-catch
-finally
-fragment
-grammar
-import
-lexer
-locals
-mode
-options
-parser
-private
-protected
-public
-returns
-throws
-tokens
+{
+    "Keyword": [
+        "catch",
+        "finally",
+        "fragment",
+        "grammar",
+        "import",
+        "lexer",
+        "locals",
+        "mode",
+        "options",
+        "parser",
+        "private",
+        "protected",
+        "public",
+        "returns",
+        "throws",
+        "tokens"
+    ]
+}

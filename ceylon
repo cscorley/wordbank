@@ -1,14 +1,49 @@
 {
     "Constant": [
-        "(true|false|null)\\b"
+        "false",
+        "null",
+        "true"
     ], 
     "Declaration": [
-        "(abstracts|extends|satisfies|adapts|super|given|of|out|assign|transient|volatile)\\b"
+        "abstracts",
+        "adapts",
+        "assign",
+        "extends",
+        "given",
+        "of",
+        "out",
+        "satisfies",
+        "super",
+        "transient",
+        "volatile"
     ], 
     "Keyword": [
-        "(break|case|catch|continue|default|else|finally|for|in|variable|if|return|switch|this|throw|try|while|is|exists|nonempty|then|outer)\\b"
+        "break",
+        "case",
+        "catch",
+        "continue",
+        "default",
+        "else",
+        "exists",
+        "finally",
+        "for",
+        "if",
+        "in",
+        "is",
+        "nonempty",
+        "outer",
+        "return",
+        "switch",
+        "then",
+        "this",
+        "throw",
+        "try",
+        "variable",
+        "while"
     ], 
     "Type": [
-        "(function|value|void)\\b"
+        "function",
+        "value",
+        "void"
     ]
 }

@@ -1,8 +1,30 @@
 {
     "Declaration": [
-        "(def\\- |defn |defn\\- |defmacro |defmulti |defmethod |defstruct |defonce |declare |definline |definterface |defprotocol |defrecord |deftype |defproject |ns )"
-    ], 
+        "declare",
+        "def",
+        "definline",
+        "definterface",
+        "defmacro",
+        "defmethod",
+        "defmulti",
+        "defn",
+        "defonce",
+        "defproject",
+        "defprotocol",
+        "defrecord",
+        "defstruct",
+        "deftype",
+        "ns"
+    ],
     "Keyword": [
-        "(\\. |def |do |fn |if |let |new |quote |var |loop )"
+        "def",
+        "do",
+        "fn",
+        "if",
+        "let",
+        "loop",
+        "new",
+        "quote",
+        "var"
     ]
 }

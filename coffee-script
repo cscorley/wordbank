@@ -1,5 +1,14 @@
 {
     "Constant": [
-        "(?<![\\.\\$])(true|false|yes|no|on|off|null|NaN|Infinity|undefined)\\b"
+        "false",
+        "Infinity",
+        "NaN",
+        "no",
+        "null",
+        "off",
+        "on",
+        "true",
+        "undefined",
+        "yes"
     ]
 }

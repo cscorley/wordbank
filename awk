@@ -1,5 +1,35 @@
 {
     "Reserved": [
-        "(atan2|cos|exp|int|log|rand|sin|sqrt|srand|gensub|gsub|index|length|match|split|sprintf|sub|substr|tolower|toupper|close|fflush|getline|next|nextfile|print|printf|strftime|systime|delete|system)\\b"
+        "atan2",
+        "close",
+        "cos",
+        "delete",
+        "exp",
+        "fflush",
+        "gensub",
+        "getline",
+        "gsub",
+        "index",
+        "int",
+        "length",
+        "log",
+        "match",
+        "next",
+        "nextfile",
+        "print",
+        "printf",
+        "rand",
+        "sin",
+        "split",
+        "sprintf",
+        "sqrt",
+        "srand",
+        "strftime",
+        "sub",
+        "substr",
+        "system",
+        "systime",
+        "tolower",
+        "toupper"
     ]
 }

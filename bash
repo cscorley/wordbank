@@ -1,6 +1,21 @@
 {
     "Keyword": [
-        ":-", 
-        "\\b(if|fi|else|while|do|done|for|then|return|function|case|select|continue|until|esac|elif)\\s*\\b"
+        ":-",
+        "case",
+        "continue",
+        "do",
+        "done",
+        "elif",
+        "else",
+        "esac",
+        "fi",
+        "for",
+        "function",
+        "if",
+        "return",
+        "select",
+        "then",
+        "until",
+        "while"
     ]
 }

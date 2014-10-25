@@ -1,8 +1,43 @@
 {
     "Declaration": [
-        "data|restore|dim|let|def|fn"
-    ], 
+        "data",
+        "def",
+        "dim",
+        "fn",
+        "let",
+        "restore"
+    ],
     "Reserved": [
-        "new|run|end|for|to|next|step|go(to|sub)?|on|return|stop|cont|if|then|input#?|read|wait|load|save|verify|poke|sys|print#?|list|clr|cmd|open|close|get#?"
+        "close",
+        "clr",
+        "cmd",
+        "cont",
+        "end",
+        "for",
+        "get",
+        "go",
+        "gosub",
+        "goto",
+        "if",
+        "input",
+        "list",
+        "load",
+        "new",
+        "next",
+        "on",
+        "open",
+        "poke",
+        "print",
+        "read",
+        "return",
+        "run",
+        "save",
+        "step",
+        "stop",
+        "sys",
+        "then",
+        "to",
+        "verify",
+        "wait"
     ]
 }

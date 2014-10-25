@@ -1,14 +1,60 @@
 {
     "Constant": [
-        "(T|F)\\b"
+        "T",
+        "F"
     ], 
     "Keyword": [
-        "(add|alarm|break|case|const|continue|delete|do|else|enum|event|export|for|function|if|global|local|module|next|of|print|redef|return|schedule|type|when|while)\\b"
+        "add",
+        "alarm",
+        "break",
+        "case",
+        "const",
+        "continue",
+        "delete",
+        "do",
+        "else",
+        "enum",
+        "event",
+        "export",
+        "for",
+        "function",
+        "global",
+        "if",
+        "local",
+        "module",
+        "next",
+        "of",
+        "print",
+        "redef",
+        "return",
+        "schedule",
+        "type",
+        "when",
+        "while"
     ], 
     "Namespace": [
-        "\\s+module\\b"
+        "module"
     ], 
     "Type": [
-        "(addr|any|bool|count|counter|double|file|int|interval|net|pattern|port|record|set|string|subnet|table|time|timer|vector)\\b"
+        "addr",
+        "any",
+        "bool",
+        "count",
+        "counter",
+        "double",
+        "file",
+        "int",
+        "interval",
+        "net",
+        "pattern",
+        "port",
+        "record",
+        "set",
+        "string",
+        "subnet",
+        "table",
+        "time",
+        "timer",
+        "vector"
     ]
 }

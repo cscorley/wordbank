@@ -1,127 +1,131 @@
-adc
-ADC
-and
-AND
-ASC
-asl
-ASL
-bcc
-BCC
-bcs
-BCS
-beq
-BEQ
-bit
-BIT
-bmi
-BMI
-bne
-BNE
-bpl
-BPL
-bra
-BRA
-brk
-BRK
-bvc
-BVC
-bvs
-BVS
-clc
-CLC
-cld
-CLD
-cli
-CLI
-clv
-CLV
-cmp
-CMP
-cpx
-CPX
-cpy
-CPY
-dec
-DEC
-dex
-DEX
-dey
-DEY
-DFC
-DS
-eor
-EOR
-EQU
-inc
-INC
-inx
-INX
-iny
-INY
-jmp
-JMP
-jsr
-JSR
-lda
-LDA
-ldx
-LDX
-ldy
-LDY
-lsr
-LSR
-nop
-NOP
-ora
-ORA
-ORG
-pha
-PHA
-php
-PHP
-phx
-PHX
-phy
-PHY
-pla
-PLA
-plp
-PLP
-ply
-PLY
-rol
-ROL
-ror
-ROR
-rti
-RTI
-rts
-RTS
-sbc
-SBC
-sec
-SEC
-sed
-SED
-sei
-SEI
-sta
-STA
-stx
-STX
-sty
-STY
-stz
-STZ
-tax
-TAX
-tay
-TAY
-tsx
-TSX
-txa
-TXA
-txs
-TXS
-tya
-TYA
+{
+    "Keyword": [
+        "adc",
+        "ADC",
+        "and",
+        "AND",
+        "ASC",
+        "asl",
+        "ASL",
+        "bcc",
+        "BCC",
+        "bcs",
+        "BCS",
+        "beq",
+        "BEQ",
+        "bit",
+        "BIT",
+        "bmi",
+        "BMI",
+        "bne",
+        "BNE",
+        "bpl",
+        "BPL",
+        "bra",
+        "BRA",
+        "brk",
+        "BRK",
+        "bvc",
+        "BVC",
+        "bvs",
+        "BVS",
+        "clc",
+        "CLC",
+        "cld",
+        "CLD",
+        "cli",
+        "CLI",
+        "clv",
+        "CLV",
+        "cmp",
+        "CMP",
+        "cpx",
+        "CPX",
+        "cpy",
+        "CPY",
+        "dec",
+        "DEC",
+        "dex",
+        "DEX",
+        "dey",
+        "DEY",
+        "DFC",
+        "DS",
+        "eor",
+        "EOR",
+        "EQU",
+        "inc",
+        "INC",
+        "inx",
+        "INX",
+        "iny",
+        "INY",
+        "jmp",
+        "JMP",
+        "jsr",
+        "JSR",
+        "lda",
+        "LDA",
+        "ldx",
+        "LDX",
+        "ldy",
+        "LDY",
+        "lsr",
+        "LSR",
+        "nop",
+        "NOP",
+        "ora",
+        "ORA",
+        "ORG",
+        "pha",
+        "PHA",
+        "php",
+        "PHP",
+        "phx",
+        "PHX",
+        "phy",
+        "PHY",
+        "pla",
+        "PLA",
+        "plp",
+        "PLP",
+        "ply",
+        "PLY",
+        "rol",
+        "ROL",
+        "ror",
+        "ROR",
+        "rti",
+        "RTI",
+        "rts",
+        "RTS",
+        "sbc",
+        "SBC",
+        "sec",
+        "SEC",
+        "sed",
+        "SED",
+        "sei",
+        "SEI",
+        "sta",
+        "STA",
+        "stx",
+        "STX",
+        "sty",
+        "STY",
+        "stz",
+        "STZ",
+        "tax",
+        "TAX",
+        "tay",
+        "TAY",
+        "tsx",
+        "TSX",
+        "txa",
+        "TXA",
+        "txs",
+        "TXS",
+        "tya",
+        "TYA"
+        ]
+}

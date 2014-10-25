@@ -1,5 +1,31 @@
 {
     "Keyword": [
-        "(on|off|none|any|all|double|email|dns|min|minimal|os|productonly|full|emerg|alert|crit|error|warn|notice|info|debug|registry|script|inetd|standalone|user|group)\\b"
+        "alert",
+        "all",
+        "any",
+        "crit",
+        "debug",
+        "dns",
+        "double",
+        "email",
+        "emerg",
+        "error",
+        "full",
+        "group",
+        "inetd",
+        "info",
+        "min",
+        "minimal",
+        "none",
+        "notice",
+        "off",
+        "on",
+        "os",
+        "productonly",
+        "registry",
+        "script",
+        "standalone",
+        "user",
+        "warn"
     ]
 }
