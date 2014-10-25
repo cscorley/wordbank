@@ -1,0 +1,5 @@
+{
+    "Keyword": [
+        "(?x)\\b(?:\n            next|break|end|\n            axiom|end_axiom|category|end_category|domain|end_domain|inherits|\n            if|%if|then|elif|else|end_if|\n            case|of|do|otherwise|end_case|\n            while|end_while|\n            repeat|until|end_repeat|\n            for|from|to|downto|step|end_for|\n            proc|local|option|save|begin|end_proc|\n            delete|frame\n          )\\b"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Constant": [
+        "SYSTEM|PUBLIC", 
+        "PUBLIC|SYSTEM", 
+        "#REQUIRED|#IMPLIED|#FIXED", 
+        "SYSTEM|PUBLIC|NDATA", 
+        "EMPTY|ANY|#PCDATA", 
+        "CDATA|IDREFS|IDREF|ID|NMTOKENS|NMTOKEN|ENTITIES|ENTITY|NOTATION"
+    ], 
+    "Keyword": [
+        "[\\[\\]>]"
+    ], 
+    "Reserved": [
+        "xml:space|xml:lang"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "Constant": [
+        "(false|true)(?=[\\(\\)\\<\\>\\[\\]\\{\\}\\/\\%\\s])"
+    ], 
+    "Reserved": [
+        "(eq|ne|ge|gt|le|lt|and|or|not|if|ifelse|for|forall)(?=[\\(\\)\\<\\>\\[\\]\\{\\}\\/\\%\\s])"
+    ]
+}

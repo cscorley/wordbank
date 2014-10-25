@@ -1,0 +1,14 @@
+{
+    "Constant": [
+        "\\b(Pi|True|False|Null|Self|Super)\\b"
+    ], 
+    "Declaration": [
+        "\\b(Local|Global|Const|Field)\\b"
+    ], 
+    "Reserved": [
+        "\\b(Strict|SuperStrict|Module|ModuleInfo|End|Return|Continue|Exit|Public|Private|Var|VarPtr|Chr|Len|Asc|SizeOf|Sgn|Abs|Min|Max|New|Release|Delete|Incbin|IncbinPtr|IncbinLen|Framework|Include|Import|Extern|EndExtern|Function|EndFunction|Type|EndType|Extends|Method|EndMethod|Abstract|Final|If|Then|Else|ElseIf|EndIf|For|To|Next|Step|EachIn|While|Wend|EndWhile|Repeat|Until|Forever|Select|Case|Default|EndSelect|Try|Catch|EndTry|Throw|Assert|Goto|DefData|ReadData|RestoreData)\\b"
+    ], 
+    "Type": [
+        "\\b(Ptr)\\b"
+    ]
+}

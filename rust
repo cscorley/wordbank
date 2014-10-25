@@ -1,0 +1,5 @@
+{
+    "Keyword": [
+        "(as|assert|break|const|copy|do|else|enum|extern|fail|false|fn|for|if|impl|let|log|loop|match|mod|move|mut|once|priv|pub|pure|ref|return|static|struct|trait|true|type|unsafe|use|while|u8|u16|u32|u64|i8|i16|i32|i64|uint|int|float|f32|f64|str)\\b"
+    ]
+}

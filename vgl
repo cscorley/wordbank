@@ -1,0 +1,9 @@
+{
+    "Constant": [
+        "declare", 
+        "(true|false|null|empty|error|locked)"
+    ], 
+    "Keyword": [
+        "(if|then|else|endif|while|do|endwhile|and|or|prompt|object|create|on|line|with|global|routine|value|endroutine|constant|global|set|join|library|compile_option|file|exists|create|copy|delete|enable|windows|name|notprotected)(?! *[=<>.,()])"
+    ]
+}

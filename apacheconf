@@ -1,0 +1,5 @@
+{
+    "Keyword": [
+        "(on|off|none|any|all|double|email|dns|min|minimal|os|productonly|full|emerg|alert|crit|error|warn|notice|info|debug|registry|script|inetd|standalone|user|group)\\b"
+    ]
+}

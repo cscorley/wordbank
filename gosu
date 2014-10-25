@@ -1,0 +1,15 @@
+{
+    "Constant": [
+        "(true|false|null|NaN|Infinity)\\b"
+    ], 
+    "Declaration": [
+        "(var|delegate|construct|function|private|internal|protected|public|abstract|override|final|static|extends|transient|implements|represents|readonly)\\b", 
+        "(property\\s+)(get|set)?"
+    ], 
+    "Keyword": [
+        "(in|as|typeof|statictypeof|typeis|typeas|if|else|foreach|for|index|while|do|continue|break|return|try|catch|finally|this|throw|new|switch|case|default|eval|super|outer|classpath|using)\\b"
+    ], 
+    "Type": [
+        "(boolean|byte|char|double|float|int|long|short|void|block)\\b"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "Keyword": [
+        "((ld|st)[axy]|(in|de)[cxy]|asl|lsr|ro[lr]|adc|sbc|cmp|cp[xy]|cl[cvdi]|se[cdi]|jmp|jsr|bne|beq|bpl|bmi|bvc|bvs|bcc|bcs|p[lh][ap]|rt[is]|brk|nop|ta[xy]|t[xy]a|txs|tsx|and|ora|eor|bit)\\b"
+    ], 
+    "Pseudo": [
+        "\\.[a-z0-9_]+"
+    ]
+}

@@ -1,27 +1,5 @@
-after
-and
-andalso
-band
-begin
-bnot
-bor
-bsl
-bsr
-bxor
-callback
-case
-catch
-div
-end
-fun
-if
-not
-of
-or
-orelse
-receive
-rem
-spec
-try
-when
-xor
+{
+    "Keyword": [
+        "(after|begin|case|catch|cond|end|fun|if|let|of|query|receive|try|when)\\b"
+    ]
+}

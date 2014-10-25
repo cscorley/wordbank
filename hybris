@@ -1,0 +1,14 @@
+{
+    "Constant": [
+        "(true|false|null|__FILE__|__LINE__|__VERSION__|__LIB_PATH__|__INC_PATH__)\\b"
+    ], 
+    "Declaration": [
+        "(extends|private|protected|public|static|throws|function|method|operator)\\b"
+    ], 
+    "Keyword": [
+        "(break|case|catch|next|default|do|else|finally|for|foreach|of|unless|if|new|return|switch|me|throw|try|while)\\b"
+    ], 
+    "Type": [
+        "(MethodReference|Runner|Dll|Thread|Pipe|Process|Runnable|CGI|ClientSocket|Socket|ServerSocket|File|Console|Directory|Exception)\\b"
+    ]
+}

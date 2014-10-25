@@ -1,0 +1,13 @@
+{
+    "Constant": [
+        "(TRUE|YES|FALSE|NO|Nil|nil|NULL)\\b", 
+        "(true|false|null|NaN|Infinity|undefined)\\b", 
+        "(ABS|ASIN|ACOS|ATAN|ATAN2|SIN|COS|TAN|EXP|POW|CEIL|FLOOR|ROUND|MIN|MAX|RAND|SQRT|E|LN2|LN10|LOG2E|LOG10E|PI|PI2|PI_2|SQRT1_2|SQRT2)\\b"
+    ], 
+    "Keyword": [
+        "(@selector|@private|@protected|@public|@encode|@synchronized|@try|@throw|@catch|@finally|@end|@property|@synthesize|@dynamic|@for|@accessors|new)\\b"
+    ], 
+    "Type": [
+        "(int|long|float|short|double|char|unsigned|signed|void|id|BOOL|bool|boolean|IBOutlet|IBAction|SEL|@outlet|@action)\\b"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "Keyword": [
+        "(def|class|try|catch|finally|retry|return|return_local|match|case|->|=>)\\b"
+    ]
+}

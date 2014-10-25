@@ -1,0 +1,20 @@
+{
+    "Keyword": [
+        "=", 
+        "(infix|infixr|infixl|prefix|postfix|type|cotype|rectype|alias|struct|con|fun|function|val|var|external|if|then|else|elif|return|match|private|public|private|module|import|as|include|inline|rec|try|yield|enum|interface|instance)(?![a-zA-Z0-9_\\-])", 
+        "::|:=|\\->|[=\\.:](?![\\$%&\\*\\+@!/\\\\^~=\\.:\\-\\?\\|<>]+)"
+    ], 
+    "Pseudo": [
+        "(for|while|repeat|foreach|foreach-indexed|error|catch|finally|cs|js|file|ref|assigned)(?![a-zA-Z0-9_\\-])"
+    ], 
+    "Type": [
+        "(forall|exists|some|with)(?![a-zA-Z0-9_\\-])", 
+        "_([a-zA-Z0-9_]|\\-[a-zA-Z])*", 
+        "[EPH](?![a-zA-Z0-9_\\-])", 
+        "[a-z]([a-zA-Z0-9_]|\\-[a-zA-Z])*", 
+        "[a-z][0-9]*(?![a-zA-Z_\\-])", 
+        "::|\\->|[\\.:|]", 
+        "[*!]", 
+        ","
+    ]
+}

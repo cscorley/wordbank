@@ -1,0 +1,19 @@
+{
+    "Keyword": [
+        "(asText|become\\!|derive|freeze\\!|frozen\\?|in\\?|is\\?|kind\\?|mimic\\!|mimics|mimics\\?|prependMimic\\!|removeAllMimics\\!|removeMimic\\!|same\\?|send|thaw\\!|uniqueHexId)(?![a-zA-Z0-9!:_?])", 
+        "(stackTraceAsText)(?![a-zA-Z0-9!:_?])", 
+        "(cell\\?|cellOwner\\?|cellOwner|cellNames|cells|cell|documentation|identity|removeCell!|undefineCell)(?![a-zA-Z0-9!:_?])", 
+        "(cell\\?|cellNames|cellOwner\\?|cellOwner|cells|cell|documentation|hash|identity|mimic|removeCell\\!|undefineCell\\!)(?![a-zA-Z0-9!:_?])", 
+        "(eval|mimic|print|println)(?![a-zA-Z0-9!:_?])", 
+        "(kind|cellDescriptionDict|cellSummary|genSym|inspect|notice)(?![a-zA-Z0-9!:_?])"
+    ], 
+    "Reserved": [
+        "(availableRestarts|bind|error\\!|findRestart|handle|invokeRestart|rescue|restart|signal\\!|warn\\!)(?![a-zA-Z0-9!:_?])", 
+        "(break|cond|continue|do|ensure|for|for:dict|for:set|if|let|loop|p:for|p:for:dict|p:for:set|return|unless|until|while|with)(?![a-zA-Z0-9!:_?])", 
+        "(dict|list|message|set)(?![a-zA-Z0-9!:_?])", 
+        "(after|around|before)(?![a-zA-Z0-9!:_?])", 
+        "(use|destructuring)", 
+        "(internal:compositeRegexp|internal:concatenateText|internal:createDecimal|internal:createNumber|internal:createRegexp|internal:createText)(?![a-zA-Z0-9!:_?])", 
+        "(case|case:and|case:else|case:nand|case:nor|case:not|case:or|case:otherwise|case:xor)(?![a-zA-Z0-9!:_?])"
+    ]
+}

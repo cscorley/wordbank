@@ -1,0 +1,17 @@
+{
+    "Constant": [
+        "(?:true|false|nil|void)\\b"
+    ], 
+    "Declaration": [
+        "(?:var|do|const|function|class)\\b"
+    ], 
+    "Keyword": [
+        "(?:emit|foreach|internal|loopn|static)\\b", 
+        "(?:every|for|loop|while)(?:;|&|\\||,)", 
+        "(?:assert|at|break|case|catch|closure|compl|continue|default|else|enum|every|external|finally|for|freezeif|if|new|onleave|return|stopif|switch|this|throw|timeout|try|waituntil|whenever|while)\\b", 
+        "(?:private|protected|public)\\b"
+    ], 
+    "Reserved": [
+        "(?:asm|auto|bool|char|const_cast|delete|double|dynamic_cast|explicit|export|extern|float|friend|goto|inline|int|long|mutable|namespace|register|reinterpret_cast|short|signed|sizeof|static_cast|struct|template|typedef|typeid|typename|union|unsigned|using|virtual|volatile|wchar_t)\\b"
+    ]
+}

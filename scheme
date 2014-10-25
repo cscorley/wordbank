@@ -1,0 +1,5 @@
+{
+    "Keyword": [
+        "(lambda |define |if |else |cond |and |or |case |let |let\\* |letrec |begin |do |delay |set\\! |\\=\\> |quote |quasiquote |unquote |unquote\\-splicing |define\\-syntax |let\\-syntax |letrec\\-syntax |syntax\\-rules )"
+    ]
+}

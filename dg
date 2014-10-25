@@ -1,0 +1,8 @@
+{
+    "Reserved": [
+        "(?<![\\.\\w])(import|inherit|for|while|switch|not|raise|unsafe|yield|with)(?!['\\w])"
+    ], 
+    "Type": [
+        "[A-Z][\\w']*\\b"
+    ]
+}

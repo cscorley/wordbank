@@ -1,0 +1,11 @@
+{
+    "Constant": [
+        "(NULL|NA(_(integer|real|complex|character)_)?|Inf|TRUE|FALSE|NaN|\\.\\.(\\.|[0-9]+))(?![0-9a-zA-Z\\._])"
+    ], 
+    "Reserved": [
+        "(if|else|for|while|repeat|in|next|break|return|switch|function)(?![0-9a-zA-Z\\._])"
+    ], 
+    "Variable": [
+        "(T|F)\\b"
+    ]
+}

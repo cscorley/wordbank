@@ -1,0 +1,5 @@
+{
+    "Keyword": [
+        "(algorithm|annotation|break|connect|constant|constrainedby|discrete|each|else|elseif|elsewhen|encapsulated|enumeration|end|equation|exit|expandable|extends|external|false|final|flow|for|if|import|impure|in|initial\\sequation|inner|input|loop|nondiscrete|outer|output|parameter|partial|protected|public|pure|redeclare|replaceable|stream|time|then|true|when|while|within)\\b"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "Keyword": [
+        "(if|else|len|var|case|default|break|switch)\\b"
+    ]
+}

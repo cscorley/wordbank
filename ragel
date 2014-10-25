@@ -1,0 +1,8 @@
+{
+    "Keyword": [
+        "(xdigit|cntrl|graph|print|punct|space|zlen|empty)\\b", 
+        "(access|action|alphtype)\\b", 
+        "(any|ascii|extend|alpha|digit|alnum|lower|upper)\\b", 
+        "(getkey|write|machine|include)\\b"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "Constant": [
+        "(true|false)\\b"
+    ], 
+    "Keyword": [
+        "\\b(import|option|optional|required|repeated|default|packed|ctype|extensions|to|max|rpc|returns)\\b"
+    ], 
+    "Type": [
+        "(int32|int64|uint32|uint64|sint32|sint64|fixed32|fixed64|sfixed32|sfixed64|float|double|bool|string|bytes)\\b"
+    ]
+}

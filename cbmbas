@@ -1,0 +1,8 @@
+{
+    "Declaration": [
+        "data|restore|dim|let|def|fn"
+    ], 
+    "Reserved": [
+        "new|run|end|for|to|next|step|go(to|sub)?|on|return|stop|cont|if|then|input#?|read|wait|load|save|verify|poke|sys|print#?|list|clr|cmd|open|close|get#?"
+    ]
+}

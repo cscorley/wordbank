@@ -1,0 +1,8 @@
+{
+    "Keyword": [
+        "(in|as|reversed|recursive|not|and|or|is|if|else|import|with(?:(?:out)?\\s*context)?|scoped|ignore\\s+missing)\\b"
+    ], 
+    "Pseudo": [
+        "(_|true|false|none|True|False|None)\\b"
+    ]
+}

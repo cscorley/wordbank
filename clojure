@@ -1,3 +1,8 @@
-false
-nil
-true
+{
+    "Declaration": [
+        "(def\\- |defn |defn\\- |defmacro |defmulti |defmethod |defstruct |defonce |declare |definline |definterface |defprotocol |defrecord |deftype |defproject |ns )"
+    ], 
+    "Keyword": [
+        "(\\. |def |do |fn |if |let |new |quote |var |loop )"
+    ]
+}

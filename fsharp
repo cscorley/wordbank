@@ -1,0 +1,9 @@
+{
+    "Keyword": [
+        "'", 
+        "\\b(abstract|and|as|assert|base|begin|class|default|delegate|do|do!|done|downcast|downto|elif|else|end|exception|extern|false|finally|for|fun|function|global|if|in|inherit|inline|interface|internal|lazy|let|let!|match|member|module|mutable|namespace|new|null|of|open|or|override|private|public|rec|return|return!|sig|static|struct|then|to|true|try|type|upcast|use|use!|val|void|when|while|with|yield|yield!)\\b"
+    ], 
+    "Type": [
+        "\\b(unit|int|float|bool|string|char|list|array|byte|sbyte|int16|uint16|uint32|int64|uint64nativeint|unativeint|decimal|void|float32|single|double)\\b"
+    ]
+}
