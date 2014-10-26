@@ -1,5 +1,7 @@
 {
     "Constant": [
-        "(true|false|null)\\b"
+        "false", 
+        "null", 
+        "true"
     ]
 }

@@ -1,5 +1,14 @@
 {
     "Keyword": [
-        "(clone|do|doFile|doString|method|for|if|else|elseif|then)\\b"
+        "clone", 
+        "do", 
+        "doFile", 
+        "doString", 
+        "else", 
+        "elseif", 
+        "for", 
+        "if", 
+        "method", 
+        "then"
     ]
 }

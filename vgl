@@ -1,9 +1,45 @@
 {
     "Constant": [
         "declare", 
-        "(true|false|null|empty|error|locked)"
+        "empty", 
+        "error", 
+        "false", 
+        "locked", 
+        "null", 
+        "true"
     ], 
     "Keyword": [
-        "(if|then|else|endif|while|do|endwhile|and|or|prompt|object|create|on|line|with|global|routine|value|endroutine|constant|global|set|join|library|compile_option|file|exists|create|copy|delete|enable|windows|name|notprotected)(?! *[=<>.,()])"
+        "and", 
+        "compile_option", 
+        "constant", 
+        "copy", 
+        "create", 
+        "delete", 
+        "do", 
+        "else", 
+        "enable", 
+        "endif", 
+        "endroutine", 
+        "endwhile", 
+        "exists", 
+        "file", 
+        "global", 
+        "if", 
+        "join", 
+        "library", 
+        "line", 
+        "name", 
+        "notprotected", 
+        "object", 
+        "on", 
+        "or", 
+        "prompt", 
+        "routine", 
+        "set", 
+        "then", 
+        "value", 
+        "while", 
+        "windows", 
+        "with"
     ]
 }

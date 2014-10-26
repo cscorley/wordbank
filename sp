@@ -1,11 +1,30 @@
 {
     "Constant": [
-        "(true|false)\\b"
+        "false", 
+        "true"
     ], 
     "Keyword": [
-        "(case|const|continue|native|default|else|enum|for|if|new|operator|public|return|sizeof|static|decl|struct|switch)\\b"
+        "case", 
+        "const", 
+        "continue", 
+        "decl", 
+        "default", 
+        "else", 
+        "enum", 
+        "for", 
+        "if", 
+        "native", 
+        "new", 
+        "operator", 
+        "public", 
+        "return", 
+        "sizeof", 
+        "static", 
+        "struct", 
+        "switch"
     ], 
     "Type": [
-        "(bool|Float)\\b"
+        "Float", 
+        "bool"
     ]
 }

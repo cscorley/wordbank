@@ -1,8 +1,43 @@
 {
     "Keyword": [
-        "\\b(case|cond|end|bc|lc|if|unless|try|loop|receive|fn|defmodule|defp?|defprotocol|defimpl|defrecord|defmacrop?|defdelegate|defexception|exit|raise|throw|unless|after|rescue|catch|else)\\b(?![?!])|(?<!\\.)\\b(do|\\-\\>)\\b\\s*"
+        "after", 
+        "bc", 
+        "case", 
+        "catch", 
+        "cond", 
+        "def", 
+        "defdelegate", 
+        "defexception", 
+        "defimpl", 
+        "defmacrop", 
+        "defmacrop?", 
+        "defmodule", 
+        "defp?", 
+        "defprotocol", 
+        "defrecord", 
+        "do", 
+        "else", 
+        "end", 
+        "exit", 
+        "fn", 
+        "if", 
+        "lc", 
+        "loop", 
+        "raise", 
+        "receive", 
+        "rescue", 
+        "throw", 
+        "try", 
+        "unless"
     ], 
     "Namespace": [
-        "\\b(import|require|use|recur|quote|unquote|super|refer)\\b(?![?!])"
+        "import", 
+        "quote", 
+        "recur", 
+        "refer", 
+        "require", 
+        "super", 
+        "unquote", 
+        "use"
     ]
 }

@@ -1,17 +1,62 @@
 {
     "Constant": [
-        "(true|false|iota|nil)\\b"
+        "false", 
+        "iota", 
+        "nil", 
+        "true"
     ], 
     "Declaration": [
-        "(var|func|struct|map|chan|type|interface|const)\\b"
+        "chan", 
+        "const", 
+        "func", 
+        "interface", 
+        "map", 
+        "struct", 
+        "type", 
+        "var"
     ], 
     "Keyword": [
-        "(break|default|select|case|defer|go|else|goto|switch|fallthrough|if|range|continue|for|return)\\b"
+        "break", 
+        "case", 
+        "continue", 
+        "default", 
+        "defer", 
+        "else", 
+        "fallthrough", 
+        "for", 
+        "go", 
+        "goto", 
+        "if", 
+        "range", 
+        "return", 
+        "select", 
+        "switch"
     ], 
     "Namespace": [
-        "(import|package)\\b"
+        "import", 
+        "package"
     ], 
     "Type": [
-        "(uint|uint8|uint16|uint32|uint64|int|int8|int16|int32|int64|float|float32|float64|complex64|complex128|byte|rune|string|bool|error|uintptr)\\b"
+        "bool", 
+        "byte", 
+        "complex128", 
+        "complex64", 
+        "error", 
+        "float", 
+        "float32", 
+        "float64", 
+        "int", 
+        "int16", 
+        "int32", 
+        "int64", 
+        "int8", 
+        "rune", 
+        "string", 
+        "uint", 
+        "uint16", 
+        "uint32", 
+        "uint64", 
+        "uint8", 
+        "uintptr"
     ]
 }

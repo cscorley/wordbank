@@ -1,5 +1,12 @@
 {
     "Keyword": [
-        "\\b(let|if|else|endif|elseif|fun|function|endfunction)\\b"
+        "else", 
+        "elseif", 
+        "endfunction", 
+        "endif", 
+        "fun", 
+        "function", 
+        "if", 
+        "let"
     ]
 }

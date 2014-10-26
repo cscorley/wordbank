@@ -1,5 +1,16 @@
 {
     "Keyword": [
-        "(def|class|try|catch|finally|retry|return|return_local|match|case|->|=>)\\b"
+        "->", 
+        "=>", 
+        "case", 
+        "catch", 
+        "class", 
+        "def", 
+        "finally", 
+        "match", 
+        "retry", 
+        "return", 
+        "return_local", 
+        "try"
     ]
 }

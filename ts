@@ -1,12 +1,52 @@
 {
     "Constant": [
-        "(true|false|null|NaN|Infinity|undefined)\\b"
+        "Infinity", 
+        "NaN", 
+        "false", 
+        "null", 
+        "true", 
+        "undefined"
     ], 
     "Reserved": [
-        "(abstract|boolean|byte|char|class|const|debugger|double|enum|export|extends|final|float|goto|implements|import|int|interface|long|native|package|private|protected|public|short|static|super|synchronized|throws|transient|volatile)\\b", 
-        "\\b(constructor|declare|interface|as|AS)\\b"
+        "AS", 
+        "abstract", 
+        "as", 
+        "boolean", 
+        "byte", 
+        "char", 
+        "class", 
+        "const", 
+        "constructor", 
+        "debugger", 
+        "declare", 
+        "double", 
+        "enum", 
+        "export", 
+        "extends", 
+        "final", 
+        "float", 
+        "goto", 
+        "implements", 
+        "import", 
+        "int", 
+        "interface", 
+        "long", 
+        "native", 
+        "package", 
+        "private", 
+        "protected", 
+        "public", 
+        "short", 
+        "static", 
+        "super", 
+        "synchronized", 
+        "throws", 
+        "transient", 
+        "volatile"
     ], 
     "Type": [
-        "\\b(string|bool|number)\\b"
+        "bool", 
+        "number", 
+        "string"
     ]
 }

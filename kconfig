@@ -1,5 +1,22 @@
 {
     "Keyword": [
-        "(mainmenu|config|menuconfig|choice|endchoice|comment|menu|endmenu|visible if|if|endif|source|prompt|select|depends on|default|range|option)\\b"
+        "choice", 
+        "comment", 
+        "config", 
+        "default", 
+        "depends on", 
+        "endchoice", 
+        "endif", 
+        "endmenu", 
+        "if", 
+        "mainmenu", 
+        "menu", 
+        "menuconfig", 
+        "option", 
+        "prompt", 
+        "range", 
+        "select", 
+        "source", 
+        "visible"
     ]
 }

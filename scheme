@@ -1,5 +1,28 @@
 {
     "Keyword": [
-        "(lambda |define |if |else |cond |and |or |case |let |let\\* |letrec |begin |do |delay |set\\! |\\=\\> |quote |quasiquote |unquote |unquote\\-splicing |define\\-syntax |let\\-syntax |letrec\\-syntax |syntax\\-rules )"
+        "=>", 
+        "and", 
+        "begin", 
+        "case", 
+        "cond", 
+        "define", 
+        "define-syntax", 
+        "delay", 
+        "do", 
+        "else", 
+        "if", 
+        "lambda", 
+        "let", 
+        "let*", 
+        "let-syntax", 
+        "letrec", 
+        "letrec-syntax", 
+        "or", 
+        "quasiquote", 
+        "quote", 
+        "set!", 
+        "syntax-rules", 
+        "unquote", 
+        "unquote-splicing"
     ]
 }

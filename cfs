@@ -1,12 +1,12 @@
 {
     "Keyword": [
-        "break",
-        "case",
-        "default",
-        "else",
-        "if",
-        "len",
-        "switch",
+        "break", 
+        "case", 
+        "default", 
+        "else", 
+        "if", 
+        "len", 
+        "switch", 
         "var"
     ]
 }

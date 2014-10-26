@@ -1,14 +1,14 @@
 {
     "Constant": [
-        "false",
-        "Infinity",
-        "NaN",
-        "no",
-        "null",
-        "off",
-        "on",
-        "true",
-        "undefined",
+        "Infinity", 
+        "NaN", 
+        "false", 
+        "no", 
+        "null", 
+        "off", 
+        "on", 
+        "true", 
+        "undefined", 
         "yes"
     ]
 }

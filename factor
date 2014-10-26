@@ -1,19 +1,33 @@
 {
     "Keyword": [
-        "\\;\\s", 
-        "MIXIN:", 
-        "SYNTAX:", 
-        "(?:ALIEN|TYPEDEF|FUNCTION|STRUCT):", 
-        "ERROR:", 
-        "(?:SINGLETON|SINGLETONS):", 
-        "SLOT:", 
-        "(?:SYMBOL|SYMBOLS):", 
+        ";", 
+        "ALIEN:", 
         "CONSTANT:", 
+        "ERROR:", 
+        "FUNCTION:", 
         "INSTANCE:", 
-        "(?:deprecated|final|foldable|flushable|inline|recursive)\\s"
+        "MIXIN:", 
+        "SINGLETON:", 
+        "SINGLETONS:", 
+        "SLOT:", 
+        "STRUCT:", 
+        "SYMBOL:", 
+        "SYMBOLS:", 
+        "SYNTAX:", 
+        "TYPEDEF:", 
+        "deprecated", 
+        "final", 
+        "flushable", 
+        "foldable", 
+        "inline", 
+        "recursive"
     ], 
     "Namespace": [
-        "(?:ALIAS|DEFER|FORGET|POSTPONE):", 
-        "(?:<PRIVATE|PRIVATE>)"
+        "<PRIVATE", 
+        "ALIAS:", 
+        "DEFER:", 
+        "FORGET:", 
+        "POSTPONE:", 
+        "PRIVATE>"
     ]
 }

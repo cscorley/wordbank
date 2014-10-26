@@ -1,14 +1,69 @@
 {
     "Constant": [
-        "(true|false|null)\\b"
+        "false", 
+        "null", 
+        "true"
     ], 
     "Declaration": [
-        "(def|abstract|const|enum|extends|final|implements|native|private|protected|public|static|strictfp|super|synchronized|throws|transient|volatile)\\b"
+        "abstract", 
+        "const", 
+        "def", 
+        "enum", 
+        "extends", 
+        "final", 
+        "implements", 
+        "native", 
+        "private", 
+        "protected", 
+        "public", 
+        "static", 
+        "strictfp", 
+        "super", 
+        "synchronized", 
+        "throws", 
+        "transient", 
+        "volatile"
     ], 
     "Keyword": [
-        "(assert|break|case|catch|continue|default|do|else|finally|for|if|goto|instanceof|new|return|switch|this|throw|try|while|IF|ELSE|ELSEIF|ENDIF|FOR|ENDFOR|SEPARATOR|BEFORE|AFTER)\\b"
+        "AFTER", 
+        "BEFORE", 
+        "ELSE", 
+        "ELSEIF", 
+        "ENDFOR", 
+        "ENDIF", 
+        "FOR", 
+        "IF", 
+        "SEPARATOR", 
+        "assert", 
+        "break", 
+        "case", 
+        "catch", 
+        "continue", 
+        "default", 
+        "do", 
+        "else", 
+        "finally", 
+        "for", 
+        "goto", 
+        "if", 
+        "instanceof", 
+        "new", 
+        "return", 
+        "switch", 
+        "this", 
+        "throw", 
+        "try", 
+        "while"
     ], 
     "Type": [
-        "(boolean|byte|char|double|float|int|long|short|void)\\b"
+        "boolean", 
+        "byte", 
+        "char", 
+        "double", 
+        "float", 
+        "int", 
+        "long", 
+        "short", 
+        "void"
     ]
 }

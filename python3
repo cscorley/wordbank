@@ -1,5 +1,28 @@
 {
     "Keyword": [
-        "(assert|break|continue|del|elif|else|except|finally|for|global|if|lambda|pass|raise|nonlocal|return|try|while|yield(\\s+from)?|as|with|True|False|None)\\b"
+        "False", 
+        "None", 
+        "True", 
+        "as", 
+        "assert", 
+        "break", 
+        "continue", 
+        "del", 
+        "elif", 
+        "else", 
+        "except", 
+        "finally", 
+        "for", 
+        "global", 
+        "if", 
+        "lambda", 
+        "nonlocal", 
+        "pass", 
+        "raise", 
+        "return", 
+        "try", 
+        "while", 
+        "with", 
+        "yield\\s+from?"
     ]
 }

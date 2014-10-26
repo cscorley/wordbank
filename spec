@@ -1,11 +1,33 @@
 {
-    "Constant": [
-        "%\\{[a-zA-Z][a-zA-Z0-9_]+\\}"
-    ], 
     "Keyword": [
-        "%(attr|defattr|dir|doc(?:dir)?|setup|config(?:ure)?|make(?:install)|ghost|patch[0-9]+|find_lang|exclude|verify)"
+        "%attr", 
+        "%config", 
+        "%configure", 
+        "%defattr", 
+        "%dir", 
+        "%doc", 
+        "%docdir", 
+        "%exclude", 
+        "%find_lang", 
+        "%ghost", 
+        "%make", 
+        "%makeinstall", 
+        "%patch0", 
+        "%patch1", 
+        "%patch2", 
+        "%patch3", 
+        "%patch4", 
+        "%patch5", 
+        "%patch6", 
+        "%patch7", 
+        "%patch8", 
+        "%patch9", 
+        "%setup", 
+        "%verify"
     ], 
     "Pseudo": [
-        "%\\{?_([a-z_]+dir|[a-z_]+path|prefix)\\}?"
+        "dir", 
+        "path", 
+        "prefix"
     ]
 }

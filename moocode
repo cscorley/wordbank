@@ -1,5 +1,22 @@
 {
     "Keyword": [
-        "\\b(if|else|elseif|endif|for|endfor|fork|endfork|while|endwhile|break|continue|return|try|except|endtry|finally|in)\\b"
+        "break", 
+        "continue", 
+        "else", 
+        "elseif", 
+        "endfor", 
+        "endfork", 
+        "endif", 
+        "endtry", 
+        "endwhile", 
+        "except", 
+        "finally", 
+        "for", 
+        "fork", 
+        "if", 
+        "in", 
+        "return", 
+        "try", 
+        "while"
     ]
 }

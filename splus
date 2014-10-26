@@ -1,11 +1,32 @@
 {
     "Constant": [
-        "(NULL|NA(_(integer|real|complex|character)_)?|Inf|TRUE|FALSE|NaN|\\.\\.(\\.|[0-9]+))(?![0-9a-zA-Z\\._])"
+        "...", 
+        "FALSE", 
+        "Inf", 
+        "NA", 
+        "NA_character_", 
+        "NA_complex_", 
+        "NA_integer_", 
+        "NA_real_", 
+        "NULL", 
+        "NaN", 
+        "TRUE"
     ], 
     "Reserved": [
-        "(if|else|for|while|repeat|in|next|break|return|switch|function)(?![0-9a-zA-Z\\._])"
+        "break", 
+        "else", 
+        "for", 
+        "function", 
+        "if", 
+        "in", 
+        "next", 
+        "repeat", 
+        "return", 
+        "switch", 
+        "while"
     ], 
     "Variable": [
-        "(T|F)\\b"
+        "F", 
+        "T"
     ]
 }

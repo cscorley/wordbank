@@ -1,5 +1,18 @@
 {
     "Keyword": [
-        "(after|begin|case|catch|cond|end|fun|if|let|of|query|receive|try|when)\\b"
+        "after", 
+        "begin", 
+        "case", 
+        "catch", 
+        "cond", 
+        "end", 
+        "fun", 
+        "if", 
+        "let", 
+        "of", 
+        "query", 
+        "receive", 
+        "try", 
+        "when"
     ]
 }

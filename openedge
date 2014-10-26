@@ -1,8 +1,38 @@
 {
     "Declaration": [
-        "(?i)(DEFINE|DEF|DEFI|DEFIN)\\b"
+        "DEF", 
+        "DEFI", 
+        "DEFIN", 
+        "DEFINE"
     ], 
     "Type": [
-        "(?i)(^|(?<=[^0-9a-z_\\-]))(CHARACTER|CHAR|CHARA|CHARAC|CHARACT|CHARACTE|COM-HANDLE|DATE|DATETIME|DATETIME-TZ|DECIMAL|DEC|DECI|DECIM|DECIMA|HANDLE|INT64|INTEGER|INT|INTE|INTEG|INTEGE|LOGICAL|LONGCHAR|MEMPTR|RAW|RECID|ROWID)\\s*($|(?=[^0-9a-z_\\-]))"
+        "CHAR", 
+        "CHARA", 
+        "CHARAC", 
+        "CHARACT", 
+        "CHARACTE", 
+        "CHARACTER", 
+        "COM-HANDLE", 
+        "DATE", 
+        "DATETIME", 
+        "DATETIME-TZ", 
+        "DEC", 
+        "DECI", 
+        "DECIM", 
+        "DECIMA", 
+        "DECIMAL", 
+        "HANDLE", 
+        "INT", 
+        "INT64", 
+        "INTE", 
+        "INTEG", 
+        "INTEGE", 
+        "INTEGER", 
+        "LOGICAL", 
+        "LONGCHAR", 
+        "MEMPTR", 
+        "RAW", 
+        "RECID", 
+        "ROW"
     ]
 }

@@ -1,11 +1,25 @@
 {
     "Constant": [
-        "(true|false|nil)\\b"
+        "false", 
+        "nil", 
+        "true"
     ], 
     "Declaration": [
-        "(local)\\b"
+        "local"
     ], 
     "Keyword": [
-        "(break|do|else|elseif|end|for|if|in|repeat|return|then|until|while)\\b"
+        "break", 
+        "do", 
+        "else", 
+        "elseif", 
+        "end", 
+        "for", 
+        "if", 
+        "in", 
+        "repeat", 
+        "return", 
+        "then", 
+        "until", 
+        "while"
     ]
 }

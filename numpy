@@ -1,8 +1,30 @@
 {
     "Keyword": [
-        "(assert|break|continue|del|elif|else|except|exec|finally|for|global|if|lambda|pass|print|raise|return|try|while|yield(\\s+from)?|as|with)\\b"
+        "as", 
+        "assert", 
+        "break", 
+        "continue", 
+        "del", 
+        "elif", 
+        "else", 
+        "except", 
+        "exec", 
+        "finally", 
+        "for", 
+        "from", 
+        "global", 
+        "if", 
+        "lambda", 
+        "pass", 
+        "print", 
+        "raise", 
+        "return", 
+        "try", 
+        "while", 
+        "with", 
+        "yield"
     ], 
     "Namespace": [
-        "as\\b"
+        "as"
     ]
 }

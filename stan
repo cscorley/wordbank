@@ -1,11 +1,42 @@
 {
     "Constant": [
-        "(e|epsilon|log10|log2|negative_epsilon|negative_infinity|not_a_number|pi|positive_infinity|sqrt2)(?=\\s*\\()"
+        "e", 
+        "epsilon", 
+        "log10", 
+        "log2", 
+        "negative_epsilon", 
+        "negative_infinity", 
+        "not_a_number", 
+        "pi", 
+        "positive_infinity", 
+        "sqrt2"
     ], 
     "Reserved": [
-        "(for|in|while|repeat|until|if|then|else|true|false|T|lower|upper|print)\\b"
+        "T", 
+        "else", 
+        "false", 
+        "for", 
+        "if", 
+        "in", 
+        "lower", 
+        "print", 
+        "repeat", 
+        "then", 
+        "true", 
+        "until", 
+        "upper", 
+        "while"
     ], 
     "Type": [
-        "(int|real|vector|simplex|ordered|row_vector|matrix|corr_matrix|cov_matrix|positive_ordered)\\b"
+        "corr_matrix", 
+        "cov_matrix", 
+        "int", 
+        "matrix", 
+        "ordered", 
+        "positive_ordered", 
+        "real", 
+        "row_vector", 
+        "simplex", 
+        "vector"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "Keyword": [
         ";", 
-        "else\\b", 
-        "gnuplot\\b"
+        "else", 
+        "gnuplot"
     ]
 }

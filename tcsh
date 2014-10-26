@@ -1,6 +1,19 @@
 {
     "Keyword": [
-        "\\b(if|endif|else|while|then|foreach|case|default|continue|goto|breaksw|end|switch|endsw)\\s*\\b", 
-        ":-"
+        ":-", 
+        "breaksw", 
+        "case", 
+        "continue", 
+        "default", 
+        "else", 
+        "end", 
+        "endif", 
+        "endsw", 
+        "foreach", 
+        "goto", 
+        "if", 
+        "switch", 
+        "then", 
+        "while"
     ]
 }

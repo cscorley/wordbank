@@ -1,12 +1,42 @@
 {
     "Constant": [
-        "\\b(true|false|null)\\b"
+        "false", 
+        "null", 
+        "true"
     ], 
     "Declaration": [
-        "(?:public|private|override|static|inline|extern|dynamic)"
+        "dynamic", 
+        "extern", 
+        "inline", 
+        "override", 
+        "private", 
+        "public", 
+        "static"
     ], 
     "Reserved": [
-        "\\b(if|else|while|do|for|in|break|continue|return|switch|case|try|catch|throw|null|trace|new|this|super|untyped|cast|callback|here)\\b"
+        "break", 
+        "callback", 
+        "case", 
+        "cast", 
+        "catch", 
+        "continue", 
+        "do", 
+        "else", 
+        "for", 
+        "here", 
+        "if", 
+        "in", 
+        "new", 
+        "null", 
+        "return", 
+        "super", 
+        "switch", 
+        "this", 
+        "throw", 
+        "trace", 
+        "try", 
+        "untyped", 
+        "while"
     ], 
     "Type": [
         "->"

@@ -1,8 +1,16 @@
 {
     "Declaration": [
-        "\\b(Newsqueak2)\\b"
+        "Newsqueak2"
     ], 
     "Keyword": [
-        "\\b(mixin|self|super|private|public|protected|nil|true|false)\\b"
+        "false", 
+        "mixin", 
+        "nil", 
+        "private", 
+        "protected", 
+        "public", 
+        "self", 
+        "super", 
+        "true"
     ]
 }

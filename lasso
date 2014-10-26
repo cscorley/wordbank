@@ -1,11 +1,29 @@
 {
     "Constant": [
-        "(true|false|none|minimal|full|all)\\b"
+        "all", 
+        "false", 
+        "full", 
+        "minimal", 
+        "none", 
+        "true"
     ], 
     "Declaration": [
-        "(local|var|variable|data)\\b"
+        "data", 
+        "local", 
+        "var", 
+        "variable"
     ], 
     "Type": [
-        "(array|date|decimal|duration|integer|map|pair|string|tag|xml|null)\\b"
+        "array", 
+        "date", 
+        "decimal", 
+        "duration", 
+        "integer", 
+        "map", 
+        "null", 
+        "pair", 
+        "string", 
+        "tag", 
+        "xml"
     ]
 }

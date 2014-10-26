@@ -1,11 +1,38 @@
 {
     "Constant": [
-        "(true|false)\\b"
+        "false", 
+        "true"
     ], 
     "Keyword": [
-        "\\b(import|option|optional|required|repeated|default|packed|ctype|extensions|to|max|rpc|returns)\\b"
+        "ctype", 
+        "default", 
+        "extensions", 
+        "import", 
+        "max", 
+        "option", 
+        "optional", 
+        "packed", 
+        "repeated", 
+        "required", 
+        "returns", 
+        "rpc", 
+        "to"
     ], 
     "Type": [
-        "(int32|int64|uint32|uint64|sint32|sint64|fixed32|fixed64|sfixed32|sfixed64|float|double|bool|string|bytes)\\b"
+        "bool", 
+        "bytes", 
+        "double", 
+        "fixed32", 
+        "fixed64", 
+        "float", 
+        "int32", 
+        "int64", 
+        "sfixed32", 
+        "sfixed64", 
+        "sint32", 
+        "sint64", 
+        "string", 
+        "uint32", 
+        "uint64"
     ]
 }

@@ -1,15 +1,19 @@
-break
-else
-FALSE
-for
-function
-if
-in
-Inf
-NA
-NaN
-next
-NULL
-repeat
-TRUE
-while
+{
+    "Keyword": [
+        "FALSE", 
+        "Inf", 
+        "NA", 
+        "NULL", 
+        "NaN", 
+        "TRUE", 
+        "break", 
+        "else", 
+        "for", 
+        "function", 
+        "if", 
+        "in", 
+        "next", 
+        "repeat", 
+        "while"
+    ]
+}

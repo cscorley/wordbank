@@ -1,11 +1,32 @@
 {
     "Constant": [
-        "(true|false|nil)\\b"
+        "false", 
+        "nil", 
+        "true"
     ], 
     "Keyword": [
-        "(class|extends|if|then|super|do|with|import|export|while|elseif|return|for|in|from|when|using|else|and|or|not|switch|break)\\b"
-    ], 
-    "Type": [
-        "[\\[\\]\\{\\}\\(\\)]"
+        "and", 
+        "break", 
+        "class", 
+        "do", 
+        "else", 
+        "elseif", 
+        "export", 
+        "extends", 
+        "for", 
+        "from", 
+        "if", 
+        "import", 
+        "in", 
+        "not", 
+        "or", 
+        "return", 
+        "super", 
+        "switch", 
+        "then", 
+        "using", 
+        "when", 
+        "while", 
+        "with"
     ]
 }

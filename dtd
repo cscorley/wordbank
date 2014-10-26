@@ -1,16 +1,31 @@
 {
     "Constant": [
-        "SYSTEM|PUBLIC", 
-        "PUBLIC|SYSTEM", 
-        "#REQUIRED|#IMPLIED|#FIXED", 
-        "SYSTEM|PUBLIC|NDATA", 
-        "EMPTY|ANY|#PCDATA", 
-        "CDATA|IDREFS|IDREF|ID|NMTOKENS|NMTOKEN|ENTITIES|ENTITY|NOTATION"
+        "#FIXED", 
+        "#IMPLIED", 
+        "#PCDATA", 
+        "#REQUIRED", 
+        "ANY", 
+        "CDATA", 
+        "EMPTY", 
+        "ENTITIES", 
+        "ENTITY", 
+        "ID", 
+        "IDREF", 
+        "IDREFS", 
+        "NDATA", 
+        "NMTOKEN", 
+        "NMTOKENS", 
+        "NOTATION", 
+        "PUBLIC", 
+        "SYSTEM"
     ], 
     "Keyword": [
-        "[\\[\\]>]"
+        ">", 
+        "[", 
+        "]"
     ], 
     "Reserved": [
-        "xml:space|xml:lang"
+        "xml:lang", 
+        "xml:space"
     ]
 }

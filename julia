@@ -1,11 +1,54 @@
 {
     "Declaration": [
-        "(local|global|const)\\b"
+        "const", 
+        "global", 
+        "local"
     ], 
     "Keyword": [
-        "(begin|while|for|in|return|break|continue|macro|quote|let|if|elseif|else|try|catch|end|bitstype|ccall|do|using|module|import|export|importall|baremodule)\\b"
+        "baremodule", 
+        "begin", 
+        "bitstype", 
+        "break", 
+        "catch", 
+        "ccall", 
+        "continue", 
+        "do", 
+        "else", 
+        "elseif", 
+        "end", 
+        "export", 
+        "for", 
+        "if", 
+        "import", 
+        "importall", 
+        "in", 
+        "let", 
+        "macro", 
+        "module", 
+        "quote", 
+        "return", 
+        "try", 
+        "using", 
+        "while"
     ], 
     "Type": [
-        "(Bool|Int|Int8|Int16|Int32|Int64|Uint|Uint8|Uint16|Uint32|Uint64|Float32|Float64|Complex64|Complex128|Any|Nothing|None)\\b"
+        "Any", 
+        "Bool", 
+        "Complex128", 
+        "Complex64", 
+        "Float32", 
+        "Float64", 
+        "Int", 
+        "Int16", 
+        "Int32", 
+        "Int64", 
+        "Int8", 
+        "None", 
+        "Nothing", 
+        "Uint", 
+        "Uint16", 
+        "Uint32", 
+        "Uint64", 
+        "Uint8"
     ]
 }

@@ -1,8 +1,9 @@
 {
     "Declaration": [
-        "var(?![0-9a-zA-Z\\._])"
+        "var"
     ], 
     "Reserved": [
-        "(for|in)(?![0-9a-zA-Z\\._])"
+        "for", 
+        "in"
     ]
 }

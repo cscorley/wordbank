@@ -1,8 +1,8 @@
 {
-    "Constant": [
-        "[$]+"
-    ], 
     "Type": [
-        "byte|[dq]?word"
+        "byte", 
+        "dword", 
+        "qword", 
+        "word"
     ]
 }

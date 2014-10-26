@@ -1,6 +1,8 @@
 {
     "Keyword": [
-        "}", 
-        "(else|elseif|then)\\b"
+        "else", 
+        "elseif", 
+        "then", 
+        "}"
     ]
 }

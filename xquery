@@ -1,9 +1,11 @@
 {
     "Keyword": [
-        "preserve|no-preserve", 
+        "else", 
         "encoding", 
+        "external", 
+        "no-preserve", 
+        "preserve", 
         "return", 
-        "then|else", 
-        "external"
+        "then"
     ]
 }
